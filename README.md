@@ -14,6 +14,6 @@ Para instalar:
 
 ## Creditos:
 
-Gktwo 
-Ryuzeen (PT/BR)
-_Danisd (Topico)
+- Gktwo 
+- Ryuzeen (PT/BR)
+- _Danisd (Topico)

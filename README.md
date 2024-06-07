@@ -1,5 +1,9 @@
 # Wuthering Waves Tools
 
+<p align="center">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://prnt.sc/Q6FnPH9kGURy">
+</p>
+
 Funções para Wuthering Waves
 
 # Como usar

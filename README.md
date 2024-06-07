@@ -12,7 +12,7 @@ Para instalar:
 
 **após isso é só abrir o atalho que foi criado e curtir seu jogo!**
 
-(o K abre a interface do hack)
+(o K abre a interface do mod)
 
 ## Creditos:
 

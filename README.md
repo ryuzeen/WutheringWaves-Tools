@@ -11,3 +11,9 @@ Para instalar:
 > ex: `Client-Win64-Shipping.exe" -fileopenlog`
 
 **após isso é só abrir o atalho que foi criado e curtir seu jogo!**
+
+## Creditos:
+
+Gktwo 
+Ryuzeen (PT/BR)
+_Danisd (Topico)

@@ -15,5 +15,5 @@ Para instalar:
 ## Creditos:
 
 - [Gktwo](https://github.com/Gktwo)
-- Ryuzeen (PT/BR)
+- [Ryuzeen](https://github.com/ryuzeen) (PT/BR)
 - _Danisd (Topico)

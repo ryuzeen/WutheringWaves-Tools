@@ -14,6 +14,19 @@ Para instalar:
 
 (o HOME abre a interface do mod)
 
+Funções:
+
+> - GodMode
+> - HitMultiplir
+> - AutoPickTreasure
+> - AutoAbsorb 
+> - KillAura
+> - PerceptionRange
+> - NoCD
+> - PlayerSpeed
+> - Custom TP
+> - AutoLoot
+
 ## Creditos:
 
 - [Gktwo](https://github.com/Gktwo)

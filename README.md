@@ -18,4 +18,4 @@ Para instalar:
 
 - [Gktwo](https://github.com/Gktwo)
 - [Ryuzeen](https://github.com/ryuzeen) (PT/BR)
-- _Danisd (Topico)
+- [Dani](https://github.com/danieldcoelho) (Topico)

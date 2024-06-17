@@ -17,7 +17,7 @@ Para instalar:
 Funções:
 
 > - GodMode
-> - HitMultiplir
+> - HitMultiplier (15x)
 > - AutoPickTreasure
 > - AutoAbsorb 
 > - KillAura
@@ -26,6 +26,8 @@ Funções:
 > - PlayerSpeed
 > - Custom TP
 > - AutoLoot
+> - Algumas funções adicionais
+
 
 ## Creditos:
 

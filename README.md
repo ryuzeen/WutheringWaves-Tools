@@ -14,7 +14,7 @@ Para instalar:
 
 **após isso é só abrir o atalho que foi criado e curtir seu jogo!**
 
-(o `ctrl + x` abre a interface do mod)
+(o `alt + x` abre a interface do mod)
 
 Funções:
 

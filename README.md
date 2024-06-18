@@ -1,5 +1,7 @@
 Basicamente um adicional para o mod (**__pode acontecer de algumas funções não estarem 100%__**)
 
+> - obs: Ao realizar o update lembre de apagar todos os arquivos da pasta mods e colocar os novos baixados
+
 Para instalar:
 
 > - Vá ate o diretório do jogo  `\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\` aqui será necessário criar uma nova pasta `~mod`
@@ -12,7 +14,7 @@ Para instalar:
 
 **após isso é só abrir o atalho que foi criado e curtir seu jogo!**
 
-(o HOME abre a interface do mod)
+(o `ctrl + x` abre a interface do mod)
 
 Funções:
 
